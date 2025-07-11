@@ -1,0 +1,7 @@
+bin/
+obj/
+.csproj
+.sln
+.vsidx
+.json
+.vs/
